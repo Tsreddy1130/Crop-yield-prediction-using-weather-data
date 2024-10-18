@@ -1,4 +1,4 @@
-# Crop-yield-prediction-using-weather-data
+# Weather-Driven Crop Yield Prediction Using Machine Learning
 This project focuses on the development of a machine learning-based crop yield prediction system using historical data from Maharashtra's rice crop production between 1997 and 2019. The system incorporates environmental factors such as rainfall, maximum temperature, and district-level area characteristics to predict rice production. By leveraging multiple regression models, including Decision Tree, K-Nearest Neighbor (KNN), and Random Forest, the project aims to identify the most accurate method for forecasting yield based on weather inputs and geographical distinctions.
  ## Dataset Overview
 •	Source: The dataset contains crop data for rice in Maharashtra, including attributes like district name, crop year, production, rainfall, maximum temperature, etc.
